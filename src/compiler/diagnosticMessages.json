@@ -4382,7 +4382,7 @@
         "category": "Message",
         "code": 6011
     },
-    "Skip type checking of declaration files.": {
+    "Skip type-checking of declaration files.": {
         "category": "Message",
         "code": 6012
     },
@@ -4901,7 +4901,7 @@
         "category": "Message",
         "code": 6159
     },
-    "[Deprecated] Use '--skipLibCheck' instead. Skip type checking of default library declaration files.": {
+    "[Deprecated] Use '--skipLibCheck' instead. Skip type-checking of default library declaration files.": {
         "category": "Message",
         "code": 6160
     },
@@ -5210,7 +5210,7 @@
         "category": "Message",
         "code": 6247
     },
-    "Type Checking": {
+    "type-checking": {
         "category": "Message",
         "code": 6248
     },
@@ -5879,7 +5879,7 @@
         "category": "Message",
         "code": 6661
     },
-    "Disable emitting files if any type checking errors are reported.": {
+    "Disable emitting files if any type-checking errors are reported.": {
         "category": "Message",
         "code": 6662
     },
@@ -5999,11 +5999,11 @@
         "category": "Message",
         "code": 6691
     },
-    "Skip type checking .d.ts files that are included with TypeScript.": {
+    "Skip type-checking .d.ts files that are included with TypeScript.": {
         "category": "Message",
         "code": 6692
     },
-    "Skip type checking all .d.ts files.": {
+    "Skip type-checking all .d.ts files.": {
         "category": "Message",
         "code": 6693
     },
@@ -6023,7 +6023,7 @@
         "category": "Message",
         "code": 6698
     },
-    "When type checking, take into account 'null' and 'undefined'.": {
+    "When type-checking, take into account 'null' and 'undefined'.": {
         "category": "Message",
         "code": 6699
     },
